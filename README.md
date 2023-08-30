@@ -24,7 +24,7 @@ This is project made using React, TypeScript and Redux toolkit. You can learn ba
 
 ### 🌐 Link:
 
-<h4> Live Site: https://languageLearner.vercel.app/ </h4>
+<h4> Live Site: https://languagelearner-main.vercel.app/ </h4>
 
 <br>
 
